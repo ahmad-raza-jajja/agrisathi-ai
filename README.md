@@ -567,7 +567,7 @@ Then open a Pull Request.
 
 # 📜 License
 
-Add your selected open-source license here.
+MIT
 
 ---
 
