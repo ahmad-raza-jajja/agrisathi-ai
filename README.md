@@ -20,7 +20,7 @@ The platform focuses on transforming complex agricultural information into **sim
 | 🧪 **Testing Report**     | Testing results, test cases and validation       | **[View Testing Report](https://docs.google.com/document/d/1qKVyMKcxHmt8WozJemSnYdiBx9prFAFRFxPSISNW_mk/edit?usp=sharing)**                                      |
 | 🚀 **PRD**          | Direct demonstration link for project evaluation | **[PRD](https://docs.google.com/document/d/1KCgoaA8aQn1cL13aiHVYHPL6ENbuOIKaClLycy-yp2Q/edit?usp=sharing)**                                              |
 
-> **Note:** Replace the four `*_LINK_HERE` placeholders with your actual links. The Live Application link is already configured.
+
 
 ---
 
