@@ -15,7 +15,7 @@ The platform focuses on transforming complex agricultural information into **sim
 | Resource                  | Description                                      | Link                                                                                     |
 | ------------------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------- |
 | 🌐 **Live Application**   | Access the deployed AgriSathi AI application     | **[Open Live Application](https://agrisathi-ai-sqmcxcbbrw8fszsmnxappvs.streamlit.app/)** |
-| 🎥 **Video Demo**         | Complete project walkthrough and demonstration   | **[Watch Video Demo](VIDEO_LINK_HERE)**                                                  |
+| 🎥 **Video Demo**         | Complete project walkthrough and demonstration   | **[Watch Video Demo](https://drive.google.com/file/d/1gUF7nw1TSrxPqhQhE6PYVvk4weV3fqUJ/view?usp=sharing)**                                                  |
 | 📊 **Presentation** | Project presentation and system overview         | **[View Presentation](https://docs.google.com/presentation/d/1n0ZGMGjE1j9yJ5YJRMajhJ0fFIeKV8cC/edit?usp=sharing&ouid=105894103748681231741&rtpof=true&sd=true)**                                                   |
 | 🧪 **Testing Report**     | Testing results, test cases and validation       | **[View Testing Report](https://docs.google.com/document/d/1qKVyMKcxHmt8WozJemSnYdiBx9prFAFRFxPSISNW_mk/edit?usp=sharing)**                                      |
 | 🚀 **PRD**          | Direct demonstration link for project evaluation | **[PRD](https://docs.google.com/document/d/1KCgoaA8aQn1cL13aiHVYHPL6ENbuOIKaClLycy-yp2Q/edit?usp=sharing)**                                              |
