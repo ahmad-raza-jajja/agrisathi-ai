@@ -509,45 +509,7 @@ AgriSathi should therefore:
 
 ---
 
-# 🎥 Project Demonstration
 
-## Video Demo
-
-Watch the complete project demonstration:
-
-**[▶ Watch AgriSathi AI Video Demo](VIDEO_LINK_HERE)**
-
----
-
-# 📊 Project Presentation
-
-View the complete project presentation:
-
-**[📑 Open AgriSathi AI Presentation](PPT_LINK_HERE)**
-
----
-
-# 🚀 Live Demo
-
-Experience AgriSathi AI:
-
-**[🌐 Launch Live Demo](LIVE_DEMO_LINK_HERE)**
-
----
-
-# 🌐 Live Application
-
-Access the deployed application:
-
-**[🌱 Open AgriSathi AI](https://agrisathi-ai-sqmcxcbbrw8fszsmnxappvs.streamlit.app/)**
-
----
-
-# 🧪 Testing Report
-
-Review the project's testing and validation documentation:
-
-**[📄 Open Testing Report](TESTING_REPORT_LINK_HERE)**
 
 ---
 
