@@ -1,0 +1,8 @@
+TITLE: Maize and sugarcane – water stages, nutrition and pests
+SOURCE: AgriSathi starter note (summary of general extension guidance; verify with provincial Agriculture Department / sugarcane research institutes and replace with official PDFs)
+
+Maize: the most water-sensitive period is around tasselling, silking and early grain filling; water stress then can sharply reduce grain set. Early growth is less sensitive. Nitrogen is usually applied in split doses. Pale yellow V-shaped yellowing from the tip of older leaves, moving along the midrib, suggests nitrogen shortage; purplish leaves in young plants can suggest phosphorus shortage or cold stress. Fall armyworm damage shows as ragged holes and sawdust-like droppings in the whorl; scout the whorl of young plants and ask the extension office about timely control.
+
+Sugarcane: it is a long-duration, high-water-demand crop. The tillering and grand growth stages need regular water; ripening needs less water. Waterlogging and long dry spells both reduce growth. Yellowing of leaves can result from nitrogen shortage, iron shortage in alkaline soils (yellow new leaves with green veins), water stress, or pests and diseases. Stem borers cause dead hearts in young shoots; red rot causes reddening and drying of the stalk interior with a sour smell, so use disease-free seed cane from a reliable source and remove infected clumps.
+
+Water-saving tips for both crops: level the field, use furrow or alternate-furrow irrigation, mulch with crop residue (especially trash mulching in sugarcane), keep weeds down, and avoid heavy irrigation just before or during very hot windy hours.
