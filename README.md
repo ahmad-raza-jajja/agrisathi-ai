@@ -17,8 +17,8 @@ The platform focuses on transforming complex agricultural information into **sim
 | 🌐 **Live Application**   | Access the deployed AgriSathi AI application     | **[Open Live Application](https://agrisathi-ai-sqmcxcbbrw8fszsmnxappvs.streamlit.app/)** |
 | 🎥 **Video Demo**         | Complete project walkthrough and demonstration   | **[Watch Video Demo](VIDEO_LINK_HERE)**                                                  |
 | 📊 **Presentation / PPT** | Project presentation and system overview         | **[View Presentation](PPT_LINK_HERE)**                                                   |
-| 🧪 **Testing Report**     | Testing results, test cases and validation       | **[View Testing Report](TESTING_REPORT_LINK_HERE)**                                      |
-| 🚀 **PRD**          | Direct demonstration link for project evaluation | **[PRD](LIVE_DEMO_LINK_HERE)**                                              |
+| 🧪 **Testing Report**     | Testing results, test cases and validation       | **[View Testing Report](https://docs.google.com/document/d/1qKVyMKcxHmt8WozJemSnYdiBx9prFAFRFxPSISNW_mk/edit?usp=sharing)**                                      |
+| 🚀 **PRD**          | Direct demonstration link for project evaluation | **[PRD](https://docs.google.com/document/d/1KCgoaA8aQn1cL13aiHVYHPL6ENbuOIKaClLycy-yp2Q/edit?usp=sharing)**                                              |
 
 > **Note:** Replace the four `*_LINK_HERE` placeholders with your actual links. The Live Application link is already configured.
 
