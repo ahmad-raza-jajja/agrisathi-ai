@@ -24,6 +24,23 @@ The platform focuses on transforming complex agricultural information into **sim
 
 ---
 
+
+# 👥 Team Structure
+
+AgriSathi AI is developed by a five-member team.
+
+| Member         | Role                              | Main Responsibility                    |
+| -------------- | --------------------------------- | -------------------------------------- |
+| 👨‍💻    Ahmad Raza | AI / Multi-Agent Engineer         | AI agents, orchestrator, prompts       |
+| 📚 Kumar  | RAG & Knowledge Engineer          | Knowledge base, embeddings, retrieval  |
+| ⚙️ Ukasha  | Backend / Integration Engineer    | APIs, integration, system architecture |
+| 🎨 Eman   | Streamlit / UI Engineer           | Interface and user experience          |
+| 🧪 Ubaid Ullah   | Product / Testing / Documentation | Testing, documentation, presentation   |
+
+---
+
+
+
 # 📌 Table of Contents
 
 * [Overview](#-overview)
@@ -407,19 +424,6 @@ Test cases should cover:
 
 ---
 
-# 👥 Team Structure
-
-AgriSathi AI is developed by a five-member team.
-
-| Member         | Role                              | Main Responsibility                    |
-| -------------- | --------------------------------- | -------------------------------------- |
-| 👨‍💻    Ahmad Raza | AI / Multi-Agent Engineer         | AI agents, orchestrator, prompts       |
-| 📚 Kumar  | RAG & Knowledge Engineer          | Knowledge base, embeddings, retrieval  |
-| ⚙️ Ukasha  | Backend / Integration Engineer    | APIs, integration, system architecture |
-| 🎨 Eman   | Streamlit / UI Engineer           | Interface and user experience          |
-| 🧪 Ubaid Ullah   | Product / Testing / Documentation | Testing, documentation, presentation   |
-
----
 
 # 🎯 Project Objectives
 
