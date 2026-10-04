@@ -18,7 +18,7 @@ The platform focuses on transforming complex agricultural information into **sim
 | 🎥 **Video Demo**         | Complete project walkthrough and demonstration   | **[Watch Video Demo](VIDEO_LINK_HERE)**                                                  |
 | 📊 **Presentation / PPT** | Project presentation and system overview         | **[View Presentation](PPT_LINK_HERE)**                                                   |
 | 🧪 **Testing Report**     | Testing results, test cases and validation       | **[View Testing Report](TESTING_REPORT_LINK_HERE)**                                      |
-| 🚀 **Live Demo**          | Direct demonstration link for project evaluation | **[Launch Live Demo](LIVE_DEMO_LINK_HERE)**                                              |
+| 🚀 **PRD**          | Direct demonstration link for project evaluation | **[Launch Live Demo](LIVE_DEMO_LINK_HERE)**                                              |
 
 > **Note:** Replace the four `*_LINK_HERE` placeholders with your actual links. The Live Application link is already configured.
 
