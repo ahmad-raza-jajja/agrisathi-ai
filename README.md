@@ -403,7 +403,7 @@ Test cases should cover:
 
 ### 📄 Full Testing Report
 
-**[View Complete Testing Report](TESTING_REPORT_LINK_HERE)**
+**[View Complete Testing Report](https://docs.google.com/document/d/1qKVyMKcxHmt8WozJemSnYdiBx9prFAFRFxPSISNW_mk/edit?usp=sharing)**
 
 ---
 
@@ -413,11 +413,11 @@ AgriSathi AI is developed by a five-member team.
 
 | Member         | Role                              | Main Responsibility                    |
 | -------------- | --------------------------------- | -------------------------------------- |
-| 👨‍💻 Member 1 | AI / Multi-Agent Engineer         | AI agents, orchestrator, prompts       |
-| 📚 Member 2    | RAG & Knowledge Engineer          | Knowledge base, embeddings, retrieval  |
-| ⚙️ Member 3    | Backend / Integration Engineer    | APIs, integration, system architecture |
-| 🎨 Member 4    | Streamlit / UI Engineer           | Interface and user experience          |
-| 🧪 Member 5    | Product / Testing / Documentation | Testing, documentation, presentation   |
+| 👨‍💻    Ahmad Raza | AI / Multi-Agent Engineer         | AI agents, orchestrator, prompts       |
+| 📚 Kumar  | RAG & Knowledge Engineer          | Knowledge base, embeddings, retrieval  |
+| ⚙️ Ukasha  | Backend / Integration Engineer    | APIs, integration, system architecture |
+| 🎨 Eman   | Streamlit / UI Engineer           | Interface and user experience          |
+| 🧪 Ubaid Ullah   | Product / Testing / Documentation | Testing, documentation, presentation   |
 
 ---
 
